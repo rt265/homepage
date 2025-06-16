@@ -19,7 +19,7 @@ body {
   padding: 0;
   background-color: #333;
   overflow: hidden;
-  font-family: "寒蝉点阵体 16px", sans-serif;
+  font-family: "DouyinSans", sans-serif;
 }
 
 *,
@@ -45,15 +45,17 @@ a:hover {
 
 // 字体文件
 @font-face {
-  font-family: "Pacifico-Regular";
+  font-family: "ZSFT-u";
+  src: url("https://fontsapi.zeoseven.com/u/main.woff2") format('woff2'),
+      url("https://fontsapi-storage.zeoseven.com/u/main.woff2") format('woff2');
   font-display: swap;
-  src: url("/font/Pacifico-Regular.ttf") format("truetype");
 }
 
 @font-face {
-  font-family: "UnidreamLED";
+  font-family: "ZSFT-616";
+  src: url("https://fontsapi.zeoseven.com/616/main.woff2") format('woff2'),
+      url("https://fontsapi-storage.zeoseven.com/616/main.woff2") format('woff2');
   font-display: swap;
-  src: url("/font/UnidreamLED.ttf") format("truetype");
 }
 
 // 基础样式
@@ -116,7 +118,7 @@ a:hover {
       background-color: #efefef;
       border-radius: 6px;
       text-align: center;
-      font-family: "UnidreamLED";
+      font-family: "ZSFT-616";
       span {
         color: #564d59;
         font-size: 0.9rem;

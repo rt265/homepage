@@ -3,36 +3,24 @@
     "name": "Github",
     "icon": "/images/icon/github.png",
     "tip": "去 Github 看看",
-    "url": "https://github.com/imsyy"
+    "url": "https://github.com/rt265"
   },
   {
     "name": "BiliBili",
     "icon": "/images/icon/bilibili.png",
     "tip": "(゜-゜)つロ 干杯 ~",
-    "url": "https://space.bilibili.com/98544142"
+    "url": "https://space.bilibili.com/23931315"
   },
   {
-    "name": "QQ",
-    "icon": "/images/icon/qq.png",
-    "tip": "有什么事吗",
-    "url": "https://res.abeim.cn/api/qq/?qq=1539250352"
+    "name": "Gravatar",
+    "icon": "/images/icon/gravatar.png",
+    "tip": "Globally Recognized Avatar!",
+    "url": "https://gravatar.com/deepsensationally4013786409"
   },
   {
     "name": "Email",
     "icon": "/images/icon/email.png",
     "tip": "来封 Email ~",
-    "url": "mailto:one@imsyy.top"
-  },
-  {
-    "name": "Twitter",
-    "icon": "/images/icon/twitter.png",
-    "tip": "你懂的 ~",
-    "url": "https://twitter.com/iimmsyy"
-  },
-  {
-    "name": "Telegram",
-    "icon": "/images/icon/telegram.png",
-    "tip": "你懂的 ~",
-    "url": "https://t.me/bottom_user"
+    "url": "mailto:2172718424@qq.com"
   }
 ]

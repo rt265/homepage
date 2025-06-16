@@ -5,8 +5,13 @@
     "link": "https://watermelonabc.top/"
   },
   {
+    "icon": "Fire",
+    "name": "Memos",
+    "link": "https://memos.watermelonabc.top/"
+  },
+  {
     "icon": "LaptopCode",
     "name": "站点监测",
-    "link": "https://status.imsyy.top/"
+    "link": "https://rt265.instatus.com/"
   }
 ]
