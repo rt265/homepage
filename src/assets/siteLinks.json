@@ -10,6 +10,11 @@
     "link": "https://memos.watermelonabc.top/"
   },
   {
+    "icon": "Cloud",
+    "name": "网盘",
+    "link": "https://pan.watermelonabc.top/home"
+  },
+  {
     "icon": "LaptopCode",
     "name": "站点监测",
     "link": "https://rt265.instatus.com/"
